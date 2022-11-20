@@ -1,17 +1,27 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogX" value="574" />
+    <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="max" />
       <item value="tage" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+        <entry key="ESPERANTO" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
     <option name="lastTrimTime" value="1668761418789" />
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220221001088869" />
+      </app-key>
     </option>
+    <option name="translator" value="BAIDU" />
   </component>
 </application>

@@ -1,16 +1,21 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="175" />
     <option name="newTranslationDialogX" value="574" />
-    <option name="newTranslationDialogY" value="380" />
+    <option name="newTranslationDialogY" value="455" />
     <histories>
+      <item value="长 宽" />
+      <item value="长" />
+      <item value="周长" />
+      <item value="周长&#10;" />
       <item value="信息" />
       <item value="max" />
       <item value="tage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="12" />
-        <entry key="ENGLISH" value="13" />
+        <entry key="CHINESE" value="41" />
+        <entry key="ENGLISH" value="42" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

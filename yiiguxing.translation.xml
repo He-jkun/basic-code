@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="数量" />
       <item value="平均" />
       <item value="分数" />
       <item value="验证码&#10;" />
@@ -17,7 +18,6 @@
       <item value="结果" />
       <item value="equals" />
       <item value="比较" />
-      <item value="数量" />
       <item value="method" />
       <item value="遍历" />
       <item value="比较&#10;" />
@@ -31,8 +31,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="132" />
-        <entry key="ENGLISH" value="133" />
+        <entry key="CHINESE" value="137" />
+        <entry key="ENGLISH" value="138" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

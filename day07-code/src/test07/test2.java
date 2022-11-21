@@ -5,7 +5,7 @@ package test07;
  * @description TODO
  * @date 2022-11-21 18:09
  */
-public class teset2 {
+public class test2 {
     public static void main(String[] args) {
         int count = 0;
         for (int i = 101; i <= 200; i++) {
@@ -21,5 +21,6 @@ public class teset2 {
                 count++;
             }
         }
+        System.out.println("有" + count + "个质数");
     }
 }

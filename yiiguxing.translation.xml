@@ -3,12 +3,14 @@
     <option name="newTranslationDialogX" value="574" />
     <option name="newTranslationDialogY" value="380" />
     <histories>
+      <item value="信息" />
       <item value="max" />
       <item value="tage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="1" />
+        <entry key="CHINESE" value="12" />
+        <entry key="ENGLISH" value="13" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

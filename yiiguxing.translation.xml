@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="密码" />
       <item value="gender" />
       <item value="hight" />
       <item value="数量" />
@@ -33,8 +34,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="143" />
+        <entry key="ENGLISH" value="144" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

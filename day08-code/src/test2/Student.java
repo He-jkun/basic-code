@@ -4,7 +4,6 @@ public class Student {
     private String name;
     private int age;
 
-
     //如果没有写任何的构造方法
     //那么虚拟机会自动加一个空参构造方法
     public Student(){

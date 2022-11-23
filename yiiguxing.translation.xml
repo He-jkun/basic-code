@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="商品&#10;" />
+      <item value="shang" />
       <item value="体重" />
       <item value="身高&#10;" />
       <item value="邮jian" />
@@ -38,8 +40,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="173" />
-        <entry key="ENGLISH" value="174" />
+        <entry key="CHINESE" value="179" />
+        <entry key="ENGLISH" value="180" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

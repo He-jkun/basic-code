@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="Null Pointer Exception" />
       <item value="色彩" />
       <item value="颜色&#9;" />
       <item value="品牌" />
@@ -46,8 +47,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="227" />
-        <entry key="ENGLISH" value="228" />
+        <entry key="CHINESE" value="228" />
+        <entry key="ENGLISH" value="229" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

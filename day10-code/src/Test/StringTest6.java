@@ -34,7 +34,7 @@ public class StringTest6 {
         }
         //4 插入单位
         String[] arr = {"佰", "拾", "万", "仟", "佰", "拾", "元"};//定义一个数组表示单位
-        String result = "";//定一个变量存放结果
+        String result = "";//定一个变量存放最终结果
         for (int i = 0; i < moneyStr.length(); i++) {//遍历moneyStr，依次得到数字中文大写
             char c = moneyStr.charAt(i);//定义字符串存储每一个中文大写数字
             result = result + c + arr[i];

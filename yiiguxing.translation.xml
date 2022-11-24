@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="反转" />
+      <item value="fang" />
       <item value="品牌&#10;" />
       <item value="ping" />
       <item value="计数" />
@@ -53,14 +55,14 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="272" />
-        <entry key="ENGLISH" value="273" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668761418789" />
+    <option name="lastTrimTime" value="1669251619367" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">

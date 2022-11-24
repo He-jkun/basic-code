@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="结果" />
+      <item value="罗马数字" />
       <item value="性别&#10;" />
       <item value="生日" />
       <item value="反转" />
@@ -13,7 +15,6 @@
       <item value="ping" />
       <item value="计数" />
       <item value="ji shu" />
-      <item value="结果" />
       <item value="jie" />
       <item value="爱好" />
       <item value="性别" />
@@ -57,8 +58,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="308" />
+        <entry key="CHINESE" value="318" />
+        <entry key="ENGLISH" value="319" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

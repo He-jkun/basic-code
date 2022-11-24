@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="过程" />
       <item value="结果" />
       <item value="罗马数字" />
       <item value="性别&#10;" />
@@ -54,12 +55,11 @@
       <item value="周长&#10;" />
       <item value="信息" />
       <item value="max" />
-      <item value="tage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

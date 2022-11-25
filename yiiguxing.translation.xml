@@ -5,9 +5,11 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="查找" />
+      <item value="品牌" />
+      <item value="pin" />
       <item value="查" />
       <item value="检查" />
-      <item value="查找" />
       <item value="cha" />
       <item value="计数" />
       <item value="数量" />
@@ -28,7 +30,6 @@
       <item value="Null Pointer Exception" />
       <item value="色彩" />
       <item value="颜色&#9;" />
-      <item value="品牌" />
       <item value="品牌&#9;" />
       <item value="ping pai" />
       <item value="商品&#10;" />
@@ -54,12 +55,11 @@
       <item value="method" />
       <item value="遍历" />
       <item value="比较&#10;" />
-      <item value="长 宽" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="379" />
-        <entry key="ENGLISH" value="380" />
+        <entry key="CHINESE" value="407" />
+        <entry key="ENGLISH" value="408" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

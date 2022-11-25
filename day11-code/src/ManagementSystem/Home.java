@@ -42,7 +42,8 @@ public class Home {
             System.out.print("输入要添加的学生id：");
             addStudentId = sc.next();
             if (contains(list, addStudentId)) {
-                System.out.print("id:" + addStudentId + "已存在，请重新");
+                System.out.println("id:" + addStudentId + "已存在");
+                return;
             } else {
                 s.setId(addStudentId);
                 break;
@@ -71,12 +72,13 @@ public class Home {
                 for (int i = 0; i < list.size(); i++) {
                     if (list.get(i).getId().equals(deleteStudentId)) {
                         list.remove(i);
-                        System.out.println("id为" + deleteStudentId + "的学生已删除");
+                        System.out.println("id为" + deleteStudentId + "的删除成功");
                         return;
                     }
                 }
             } else {
-                System.out.print("id:" + deleteStudentId + "不存在，请重新");
+                System.out.println("id:" + deleteStudentId + "不存在，删除失败");
+                return;
             }
         }
     }
@@ -103,7 +105,8 @@ public class Home {
                     }
                 }
             } else {
-                System.out.print("id：" + updateStudentId + "不存在,请重新");
+                System.out.println("id：" + updateStudentId + "不存在");
+                return;
             }
         }
     }

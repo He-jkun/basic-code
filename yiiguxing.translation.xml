@@ -1,17 +1,78 @@
 <application>
   <component name="AppStorage">
+    <option name="newTranslationDialogHeight" value="167" />
+    <option name="newTranslationDialogWidth" value="509" />
+    <option name="newTranslationDialogX" value="2171" />
+    <option name="newTranslationDialogY" value="213" />
     <histories>
-      <item value="tage" />
+      <item value="过程" />
+      <item value="结果" />
+      <item value="罗马数字" />
+      <item value="性别&#10;" />
+      <item value="生日" />
+      <item value="反转" />
+      <item value="fang" />
+      <item value="品牌&#10;" />
+      <item value="ping" />
+      <item value="计数" />
+      <item value="ji shu" />
+      <item value="jie" />
+      <item value="爱好" />
+      <item value="性别" />
+      <item value="Null Pointer Exception" />
+      <item value="色彩" />
+      <item value="颜色&#9;" />
+      <item value="品牌" />
+      <item value="品牌&#9;" />
+      <item value="ping pai" />
+      <item value="商品&#10;" />
+      <item value="shang" />
+      <item value="体重" />
+      <item value="身高&#10;" />
+      <item value="邮jian" />
+      <item value="邮箱" />
+      <item value="密码" />
+      <item value="gender" />
+      <item value="hight" />
+      <item value="数量" />
+      <item value="平均" />
+      <item value="分数" />
+      <item value="验证码&#10;" />
+      <item value="机舱" />
+      <item value="月份&#10;" />
+      <item value="价格" />
+      <item value="价格&#10;" />
+      <item value="月份" />
+      <item value="判断" />
+      <item value="equals" />
+      <item value="比较" />
+      <item value="method" />
+      <item value="遍历" />
+      <item value="比较&#10;" />
+      <item value="长 宽" />
+      <item value="长" />
+      <item value="周长" />
+      <item value="周长&#10;" />
+      <item value="信息" />
+      <item value="max" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
+        <entry key="ESPERANTO" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1668761418789" />
+    <option name="lastTrimTime" value="1669251619367" />
   </component>
   <component name="Settings">
-    <option name="googleTranslateSettings">
-      <google-translate>
-        <option name="primaryLanguage" value="ESPERANTO" />
-      </google-translate>
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220221001088869" />
+      </app-key>
     </option>
+    <option name="translator" value="BAIDU" />
   </component>
 </application>

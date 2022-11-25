@@ -1,4 +1,4 @@
-package Test;
+package Test10;
 
 import java.util.Scanner;
 import java.util.StringJoiner;

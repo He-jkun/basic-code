@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="忘记密码" />
+      <item value="忘记" />
+      <item value="注册&#10;" />
+      <item value="登录" />
+      <item value="选择" />
       <item value="身份证" />
       <item value="选择&#10;" />
       <item value="图书管理系统" />
@@ -12,7 +17,6 @@
       <item value="工资" />
       <item value="员工" />
       <item value="家庭地址" />
-      <item value="选择" />
       <item value="管理系统" />
       <item value="查找" />
       <item value="品牌" />
@@ -51,15 +55,11 @@
       <item value="gender" />
       <item value="hight" />
       <item value="平均" />
-      <item value="分数" />
-      <item value="验证码&#10;" />
-      <item value="机舱" />
-      <item value="月份&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="459" />
-        <entry key="ENGLISH" value="460" />
+        <entry key="CHINESE" value="483" />
+        <entry key="ENGLISH" value="484" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

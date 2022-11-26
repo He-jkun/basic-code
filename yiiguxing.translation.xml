@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="验证码&#10;" />
       <item value="字母" />
       <item value="忘记密码" />
       <item value="忘记" />
@@ -54,12 +55,11 @@
       <item value="密码" />
       <item value="gender" />
       <item value="hight" />
-      <item value="平均" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="487" />
-        <entry key="ENGLISH" value="488" />
+        <entry key="CHINESE" value="492" />
+        <entry key="ENGLISH" value="493" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

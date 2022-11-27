@@ -3,8 +3,8 @@ package ManagementSystem;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class Home {
-    public static void main(String[] args) {
+public class StudentSystem {
+    public static void startStudentSystem() {
         ArrayList<Student> list = new ArrayList<>();
         //Student s = new Student("heima001", "张三", 23, "南京");
         //list.add(s);

@@ -1,4 +1,4 @@
-package Test;
+package Test10;
 
 public class StrringBuilderTest2 {
     public static void main(String[] args) {

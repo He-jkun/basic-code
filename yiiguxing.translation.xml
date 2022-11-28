@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="部门" />
+      <item value="行为" />
+      <item value="班级" />
+      <item value="查看课表" />
+      <item value="人&#10;" />
       <item value="中华田园犬" />
       <item value="沙皮狗" />
       <item value="sha pi" />
@@ -50,16 +55,11 @@
       <item value="品牌&#9;" />
       <item value="ping pai" />
       <item value="商品&#10;" />
-      <item value="shang" />
-      <item value="体重" />
-      <item value="身高&#10;" />
-      <item value="邮jian" />
-      <item value="邮箱" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="507" />
-        <entry key="ENGLISH" value="508" />
+        <entry key="CHINESE" value="533" />
+        <entry key="ENGLISH" value="533" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

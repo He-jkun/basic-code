@@ -5,6 +5,8 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="颜色" />
+      <item value="动物" />
       <item value="部门" />
       <item value="行为" />
       <item value="班级" />
@@ -53,13 +55,11 @@
       <item value="色彩" />
       <item value="颜色&#9;" />
       <item value="品牌&#9;" />
-      <item value="ping pai" />
-      <item value="商品&#10;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="533" />
-        <entry key="ENGLISH" value="533" />
+        <entry key="CHINESE" value="545" />
+        <entry key="ENGLISH" value="545" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

@@ -5,6 +5,20 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="篮球教练" />
+      <item value="lan qiu" />
+      <item value="蓝球运动员" />
+      <item value="蓝球运动yuan" />
+      <item value="乒乓球运动员" />
+      <item value="蓝球" />
+      <item value="乒乓" />
+      <item value="说英语" />
+      <item value="乒乓球" />
+      <item value="ping p" />
+      <item value="教" />
+      <item value="教练" />
+      <item value="学习" />
+      <item value="运动员" />
       <item value="青蛙" />
       <item value="兔子" />
       <item value="动物" />
@@ -41,25 +55,11 @@
       <item value="cha" />
       <item value="计数" />
       <item value="数量" />
-      <item value="过程" />
-      <item value="结果" />
-      <item value="罗马数字" />
-      <item value="性别&#10;" />
-      <item value="生日" />
-      <item value="反转" />
-      <item value="fang" />
-      <item value="品牌&#10;" />
-      <item value="ping" />
-      <item value="ji shu" />
-      <item value="jie" />
-      <item value="爱好" />
-      <item value="性别" />
-      <item value="Null Pointer Exception" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="577" />
-        <entry key="ENGLISH" value="576" />
+        <entry key="CHINESE" value="649" />
+        <entry key="ENGLISH" value="648" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

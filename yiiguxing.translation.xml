@@ -5,8 +5,10 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
-      <item value="color" />
+      <item value="青蛙" />
+      <item value="兔子" />
       <item value="动物" />
+      <item value="color" />
       <item value="颜色" />
       <item value="部门" />
       <item value="行为" />
@@ -53,19 +55,17 @@
       <item value="爱好" />
       <item value="性别" />
       <item value="Null Pointer Exception" />
-      <item value="色彩" />
-      <item value="颜色&#9;" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="560" />
-        <entry key="ENGLISH" value="559" />
+        <entry key="CHINESE" value="577" />
+        <entry key="ENGLISH" value="576" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>
   </component>
   <component name="Cache">
-    <option name="lastTrimTime" value="1669251619367" />
+    <option name="lastTrimTime" value="1669697599149" />
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">

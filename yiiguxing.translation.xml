@@ -5,6 +5,11 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="面积" />
+      <item value="求面积" />
+      <item value="qiu" />
+      <item value="形状" />
+      <item value="xing z" />
       <item value="篮球教练" />
       <item value="lan qiu" />
       <item value="蓝球运动员" />
@@ -50,16 +55,11 @@
       <item value="查找" />
       <item value="品牌" />
       <item value="pin" />
-      <item value="查" />
-      <item value="检查" />
-      <item value="cha" />
-      <item value="计数" />
-      <item value="数量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="649" />
-        <entry key="ENGLISH" value="648" />
+        <entry key="CHINESE" value="675" />
+        <entry key="ENGLISH" value="674" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

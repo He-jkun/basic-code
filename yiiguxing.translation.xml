@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="短信" />
       <item value="面积" />
       <item value="求面积" />
       <item value="qiu" />
@@ -54,12 +55,11 @@
       <item value="管理系统" />
       <item value="查找" />
       <item value="品牌" />
-      <item value="pin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="675" />
-        <entry key="ENGLISH" value="674" />
+        <entry key="CHINESE" value="680" />
+        <entry key="ENGLISH" value="679" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

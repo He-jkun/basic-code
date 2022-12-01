@@ -5,6 +5,12 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="更换图片" />
+      <item value="sport" />
+      <item value="sports" />
+      <item value="运动" />
+      <item value="动物" />
+      <item value="女孩" />
       <item value="[CATransaction synchronize] called within transaction" />
       <item value="注册" />
       <item value="短信" />
@@ -29,7 +35,6 @@
       <item value="运动员" />
       <item value="青蛙" />
       <item value="兔子" />
-      <item value="动物" />
       <item value="color" />
       <item value="颜色" />
       <item value="部门" />
@@ -50,16 +55,11 @@
       <item value="身份证" />
       <item value="选择&#10;" />
       <item value="图书管理系统" />
-      <item value="判断" />
-      <item value="工资" />
-      <item value="员工" />
-      <item value="家庭地址" />
-      <item value="管理系统" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="685" />
-        <entry key="ENGLISH" value="685" />
+        <entry key="CHINESE" value="720" />
+        <entry key="ENGLISH" value="719" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

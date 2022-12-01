@@ -5,6 +5,7 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="Location Relative To" />
       <item value="输入" />
       <item value="mouse Clicked" />
       <item value="mouse Released" />
@@ -54,12 +55,11 @@
       <item value="忘记密码" />
       <item value="忘记" />
       <item value="注册&#10;" />
-      <item value="登录" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="728" />
-        <entry key="ENGLISH" value="729" />
+        <entry key="CHINESE" value="729" />
+        <entry key="ENGLISH" value="730" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

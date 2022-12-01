@@ -5,6 +5,10 @@
     <option name="newTranslationDialogX" value="2171" />
     <option name="newTranslationDialogY" value="213" />
     <histories>
+      <item value="输入" />
+      <item value="mouse Clicked" />
+      <item value="mouse Released" />
+      <item value="mouse Pressed" />
       <item value="更换图片" />
       <item value="sport" />
       <item value="sports" />
@@ -51,15 +55,11 @@
       <item value="忘记" />
       <item value="注册&#10;" />
       <item value="登录" />
-      <item value="选择" />
-      <item value="身份证" />
-      <item value="选择&#10;" />
-      <item value="图书管理系统" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="720" />
-        <entry key="ENGLISH" value="719" />
+        <entry key="CHINESE" value="728" />
+        <entry key="ENGLISH" value="729" />
         <entry key="ESPERANTO" value="1" />
       </map>
     </option>

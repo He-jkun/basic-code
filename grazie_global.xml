@@ -11,6 +11,7 @@
         <option name="suppressed">
           <set>
             <option value="、关于" />
+            <option value="步数" />
           </set>
         </option>
       </SuppressingContext>

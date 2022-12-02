@@ -75,4 +75,31 @@
     </option>
     <option name="translator" value="BAIDU" />
   </component>
+  <component name="Translation.Cache">
+    <option name="lastTrimTime" value="1669987720546" />
+  </component>
+  <component name="Translation.Settings">
+    <option name="baiduTranslateSettings">
+      <app-key>
+        <option name="appId" value="20220221001088869" />
+      </app-key>
+    </option>
+    <option name="primaryLanguage" value="CHINESE" />
+    <option name="translator" value="BAIDU" />
+  </component>
+  <component name="Translation.States">
+    <option name="newTranslationDialogX" value="2254" />
+    <option name="newTranslationDialogY" value="375" />
+    <histories>
+      <item value="座机" />
+      <item value="热线" />
+      <item value="zuo ji" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="16" />
+        <entry key="ENGLISH" value="16" />
+      </map>
+    </option>
+  </component>
 </application>

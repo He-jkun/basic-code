@@ -2,5 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mystatic" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-interface" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/oop-polymorphism" vcs="Git" />
   </component>
 </project>

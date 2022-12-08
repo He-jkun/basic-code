@@ -76,7 +76,7 @@
     <option name="translator" value="BAIDU" />
   </component>
   <component name="Translation.Cache">
-    <option name="lastTrimTime" value="1669987720546" />
+    <option name="lastTrimTime" value="1670498467559" />
   </component>
   <component name="Translation.Settings">
     <option name="baiduTranslateSettings">
@@ -91,6 +91,7 @@
     <option name="newTranslationDialogX" value="2197" />
     <option name="newTranslationDialogY" value="185" />
     <histories>
+      <item value="女孩" />
       <item value="高" />
       <item value="女朋友" />
       <item value="阶乘" />
@@ -102,8 +103,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="38" />
-        <entry key="ENGLISH" value="38" />
+        <entry key="CHINESE" value="46" />
+        <entry key="ENGLISH" value="46" />
       </map>
     </option>
   </component>
